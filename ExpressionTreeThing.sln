@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeThing", "ExpressionTreeThing\ExpressionTreeThing.csproj", "{567641F9-BCBD-4951-8941-B1617C520D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567641F9-BCBD-4951-8941-B1617C520D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567641F9-BCBD-4951-8941-B1617C520D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567641F9-BCBD-4951-8941-B1617C520D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567641F9-BCBD-4951-8941-B1617C520D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DC27A1-5C80-4CE6-A54D-2E8F321CC3CE}
+	EndGlobalSection
+EndGlobal
