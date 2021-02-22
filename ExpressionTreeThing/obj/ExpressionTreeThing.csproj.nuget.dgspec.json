@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\Iggy.Glassman\\Documents\\Visual Studio 2019\\Projects\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj": {}
+    "C:\\Users\\Iggy\\source\\repos\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\Iggy.Glassman\\Documents\\Visual Studio 2019\\Projects\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj": {
+    "C:\\Users\\Iggy\\source\\repos\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Iggy.Glassman\\Documents\\Visual Studio 2019\\Projects\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj",
+        "projectUniqueName": "C:\\Users\\Iggy\\source\\repos\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj",
         "projectName": "ExpressionTreeThing",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Iggy.Glassman\\Documents\\Visual Studio 2019\\Projects\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj",
-        "packagesPath": "C:\\Users\\iggy.glassman\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Iggy.Glassman\\Documents\\Visual Studio 2019\\Projects\\ExpressionTreeThing\\ExpressionTreeThing\\obj\\",
+        "projectPath": "C:\\Users\\Iggy\\source\\repos\\ExpressionTreeThing\\ExpressionTreeThing\\ExpressionTreeThing.csproj",
+        "packagesPath": "C:\\Users\\Iggy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iggy\\source\\repos\\ExpressionTreeThing\\ExpressionTreeThing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\iggy.glassman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Iggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -1,0 +1,13 @@
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.exe
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.deps.json
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.runtimeconfig.json
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.runtimeconfig.dev.json
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.dll
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.pdb
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.csprojAssemblyReference.cache
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.AssemblyInfoInputs.cache
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.AssemblyInfo.cs
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.csproj.CoreCompileInputs.cache
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.dll
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.pdb
+C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.genruntimeconfig.cache

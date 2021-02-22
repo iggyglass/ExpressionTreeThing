@@ -35,8 +35,8 @@ namespace ExpressionTreeThing
                 }
                 else // Token is an operator
                 {
-                    Expression left = expressions.Pop();
                     Expression right = expressions.Pop();
+                    Expression left = expressions.Pop();
                     Expression newExpression;
 
                     switch (tokens[i].Value) // TODO: fix this bc string switching is bad (iirc)
