@@ -18,6 +18,8 @@ namespace ExpressionTreeThing
 
         public static Queue<Token> ConvertToTokens(string input)
         {
+            input = Regex.Replace(input, @"\s+", "");
+
             StringBuilder builder = new StringBuilder();
             Queue<Token> output = new Queue<Token>();
             Token.TokenType prevType = getType(input[0].ToString());

@@ -11,3 +11,16 @@ C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\net
 C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.dll
 C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.pdb
 C:\Users\Iggy\source\repos\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.exe
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.deps.json
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.runtimeconfig.json
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.dll
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\bin\Debug\netcoreapp3.1\ExpressionTreeThing.pdb
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.dll
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.pdb
+\\GMRDC1\Folder Redirection\iggy.glassman\Documents\Visual Studio 2019\Projects\ExpressionTreeThing\ExpressionTreeThing\obj\Debug\netcoreapp3.1\ExpressionTreeThing.genruntimeconfig.cache
